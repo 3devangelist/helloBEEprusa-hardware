@@ -4,6 +4,7 @@ I have forke the base project because of a friend of mine is a beta tester of be
 ## Problems
 [X-Brake](https://github.com/3devangelist/helloBEEprusa-hardware/blob/master/X-End-STOP/README.md "X-Brake")
 
+Front FLEX of the sheet metal model something to tur square !
 
 ### Info
 
