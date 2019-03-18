@@ -7,3 +7,11 @@ The X-axis doesn't reach to the break of the end stop, causing some skipping noi
 
 ## Changes:
 Edit the original X brake to bee 4mm wider!
+
+# V1
+
+Works OK! 
+
+![foto3](fotos/_SAM1100.JPG)
+
+I have to tighten the clearances for a better fit! I will be making on version 2 with less 0.5mm 
